@@ -1,0 +1,18 @@
+{
+"version":"3.2.0",
+"identification":{
+    "id" :"ns.invcp_senior_reviewr.sm",
+    "title":" Senior Reviewer1",
+    "entityType":"role"
+},
+
+
+"payload":{
+    "apps" :[
+        {
+            "id":"ns.Firstcard.app"
+        }
+    ]
+}
+
+}

@@ -1,0 +1,20 @@
+{
+"senior_reviewr":{
+    "type":"role",
+    "src":{
+        "from":"./code/src",
+        "content" :"role.json"
+    }
+},
+
+"Firstcard":{
+    "type":"card",
+    "src":{
+        "from" : "./code/src",
+        "path" : "./",
+        "build": "",
+        "package" : "",
+        "manifest" : "src/manifest.json"
+    }
+}
+}

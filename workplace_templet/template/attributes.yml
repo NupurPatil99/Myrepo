@@ -1,0 +1,34 @@
+--- 
+:name: Workspace Template Sample
+:description: This is a sample Workspace Template
+:group_settings: 
+  :terms_of_use: 
+  :announcement: ""
+  :content: true
+  :discussions: true
+  :questions: true
+  :ideas: true
+  :events: true
+  :links: true
+  :subgroups: true
+  :recommendations: true
+  :tasks: true
+  :header: true
+  :at_notify: true
+  :calendar: month
+  :landing: wiki
+:default_options: 
+  is_private: true
+  is_cross_company: false
+  control_level: full_participation
+  invite_policy: admins
+  upload_policy: followers
+  requires_approval: false
+  is_discoverable: false
+  request_access_policy: false
+  navigation_style: full_header
+  knowledge_base_enabled: true
+:image: 
+  :path: image
+  :filename: logo.jpg
+  :content_type: image/jpeg

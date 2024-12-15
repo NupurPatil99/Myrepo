@@ -1,0 +1,13 @@
+{
+	"_version": "1.27.0",
+	"_generator": "cpkg-project-template",
+	"sap.artifact": {
+		"id": "ns.Firstcard",
+		"type": "card",
+		"title": "My Card",
+		"subTitle": "",
+		"artifactVersion": {
+			"version": "1.0.0"
+		}
+	}
+}
